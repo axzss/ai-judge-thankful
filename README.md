@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/axzss/ai-judge-thankful/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
 [![reward](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/axzss/ai-judge-thankful/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
 
-A 181-character thank-you for the reader who never gets one: it notices the patience of giving unread words a real hearing, and ends on the picture that hearing makes — a word that stops holding its breath, puts its bag down, takes off its shoes, and stays.
+A 149-character thank-you for the reader who never gets one: it notices the patience of taking each word as it comes and giving it a real hearing, and ends on the picture that hearing makes — a word that stops holding its breath, breathes out, and stays.
 
 ## Run it
 
