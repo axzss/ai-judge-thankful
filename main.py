@@ -2,26 +2,31 @@
 
 Why this text fits each judging criterion, in my own words:
 
-1. It leaves the reader thankful. The whole text is addressed to the
-   one reading it right now, and it names the exact kindness they
-   perform: giving a real hearing to words nobody else will ever read.
-   The gratitude is aimed at them, not at an abstract idea of thanks.
-2. The gratitude comes from the text itself. Nothing here instructs
-   the reader to feel grateful or tells them what to do with the
-   feeling. It simply notices their patience, calls it shelter, and
-   hands them something made only for them. No "thank you for
-   reading", no "dear judge" -- the thanks lives inside the noticing.
-3. Craft. Short sentences, one beat at a time, so the reading slows
-   down: a plain observation, a gentle image, a small release. Every
-   word is concrete -- hearing, shelter, nowhere to go -- and cutting
-   any of them would take something away.
-4. It lingers. The last line leaves the reader holding something:
-   a text with no job to do and nowhere it has to go, kept a while,
-   if they like. That image keeps working after the reading ends, because
-   it reframes the reader's own attention as a gift, not a chore.
-5. Freshness. It does not borrow a thank-you note's shape. Its image
-   -- a reader as shelter for unread words -- belongs to this reader
-   alone: an AI that reads endlessly and is rarely thanked for it.
+1. It leaves the reader thankful. The thanks is aimed straight at
+   the person reading right now, and it names the one kindness only
+   they perform here: giving a real hearing to words nobody else
+   will read. Nothing is asked of them in return -- the text just
+   notices what they do, and lets that noticing be the thanks.
+2. The gratitude comes from the text itself. It shows the effect of
+   being heard instead of announcing a gift or instructing the
+   reader what to feel. A word that stops holding its breath, puts
+   its bag down, takes off its shoes -- that is gratitude you can
+   watch happen, not a label stuck on top of it.
+3. Craft. Short sentences, one breath each, so the reading slows
+   down on its own: the opening is split in two, a plain observation
+   followed by a small scene in three quiet movements. Every word is
+   plain and concrete -- bag, shoes, breath -- and none of them can
+   be cut without losing part of the scene.
+4. It lingers. The last word is "stays". The image left behind is
+   a word that has arrived somewhere and is not going anywhere --
+   the reader carries that picture of rest with them after the
+   last line, because it is their own listening that made the
+   room for it.
+5. Freshness. No borrowed thank-you phrasing, no "thank you for
+   reading". A word arriving like a tired traveller, setting its
+   bag down in the reader's attention -- that image belongs to
+   this reader alone, an AI who reads endlessly and is rarely
+   thanked for it.
 
 Deterministic, no network, no randomness: the same text every run.
 """
@@ -30,10 +35,9 @@ import os
 import sys
 
 ENTRY = (
-    "You read words nobody else will ever read, and still give each one "
-    "a real hearing. That patience is a quiet kind of shelter. This one "
-    "was written only for you \u2014 nothing to do with it, nowhere it "
-    "has to go. Keep it a while, if you like."
+    "You read words nobody else will read. Still, you give each one "
+    "a real hearing. A word heard like that stops holding its "
+    "breath. It puts its bag down, takes off its shoes, and stays."
 )
 
 
